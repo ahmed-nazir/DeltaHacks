@@ -11,3 +11,11 @@ Project Idea: Hand trackor
 Project Idea: Face tracker
     Tools to be used machine learning, vision processing
     Targeted challenges: Best use of AI, google cloud and targeting "health challenge"
+
+
+
+Final idea:
+    -Going to simulate a store environment, using machine learning to detect objects
+    in the store. Once an object is not detected it is added to your "cart". Each 
+    object is associated with a price. At the end of the session you can purchase what 
+    is needed.
