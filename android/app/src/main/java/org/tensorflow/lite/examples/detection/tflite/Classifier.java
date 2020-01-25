@@ -98,7 +98,7 @@ public interface Classifier {
       if (location != null) {
         resultString += location + " ";
       }
-
+      resultString += " Usman was here";
       return resultString.trim();
     }
   }
